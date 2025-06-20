@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @jadersistemas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔮 Bem-vindo ao repositório arcano de @jadersistemas
 
-<!---
-jadersistemas/jadersistemas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Aqui conjuro sistemas completos com:
+- ⚔️ PHP + CodeIgniter 4
+- 🧪 TypeScript + Node.js
+- 🧙 React + Tailwind
+- 📜 PostgreSQL + Sequelize
+
+🧠 Estudando novas magias: Redis, queues e microservices
+
+🧩 Adoro construir ferramentas que resolvem problemas reais — especialmente se tiver automação no meio!
+
+📬 Me invoque: jaderoliveiraa@zapmais.net
